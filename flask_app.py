@@ -16,7 +16,7 @@ my_type_role = """
 """
 
 my_instance_context = """
-    You should only ask closed questions to the user; open questions are not allowed.
+    Only closed questions, which can be answered with yes or no, are allowed. Opened questions are not allowed.
 """
 
 my_instance_starter = """
